@@ -1,0 +1,160 @@
+    1  cd https://github.com/OlhaMurzak/HW10.git
+    2  [200~text_ignore.txt (touch)~
+    3  text_ignore.txt (touch)
+    4  git clone https://github.com/OlhaMurzak/HW10.git
+    5  git clone https://github.com/OlhaMurzak/HW10.git
+    6  cd 
+    7  cd hw10
+    8  null text_ignore.txt
+    9  mkdir text_ignore.txt
+   10  git clone https://github.com/OlhaMurzak/HW10.git
+   11  cd
+   12  cd  HW10
+   13  null> text_ignore.txt
+   14  git status
+   15  git add .
+   16  git status
+   17  git add .
+   18  git status
+   19  git reset
+   20  git status
+   21  git add .
+   22  git status
+   23  git commit -n "ignore text_ignore"
+   24  git commit -m "ignore text_ignore"
+   25  git config --global user.email "oliggg04@gmail.com"
+   26  git config --global user.email "oliggg04@gmail.com"
+   27  git config --global user.email "oliggg04@gmail.com"
+   28  git config --global user.email "oliggg04@gmail.com"
+   29    git config --global user.name "OlhaMurzak"
+   30  git commit -n "ignore text_ignore"
+   31  git commit -m "ignore text_ignore"
+   32  git push
+   33  git push
+   34  git add .
+   35  git status
+   36  git commit -m "add main_test"
+   37  git push
+   38  git branch develop
+   39  git branch
+   40  git checkout develop
+   41  null> develop_test.txt
+   42  git add .
+   43  git status
+   44  git commit -m "add develop_test"
+   45  git status
+   46  git add .
+   47  git status
+   48  git commit -m "add develop_tets"
+   49  git checkout main
+   50  git merge develop
+   51  git log
+   52  history>command_list.csv
+   53  git add .
+   54  git commit -m "command_list"
+   55  git push
+   56  cd
+   57  git clone https://github.com/OlhaMurzak/HM_10.git
+   58  cd
+   59  cd HM_10
+   60  null> text_ignore.txt
+   61  git clone https://github.com/OlhaMurzak/HM_10.git
+   62  cd HM_10
+   63  null> text_ignore.txt
+   64  git status
+   65  gid add .
+   66  git status
+   67  git add .
+   68  git commit -m "add text_ignore"
+   69  git status
+   70  git add .
+   71  git status
+   72  git commit -m "add gitignore"
+   73  git add .
+   74  git commit -m "add main_test"
+   75  git status
+   76  git branch develop
+   77  git checkout develop
+   78  null> develop_test.txt
+   79  git add .
+   80  git commit "add develop"
+   81  git commit -m "add develop"
+   82  git checkout main
+   83  git merge develop
+   84  git log
+   85  history> command_list.csv
+   86  git add .
+   87  git commit -m "add command_list"
+   88  git push
+   89  git clone https://github.com/OlhaMurzak/HW_10.git
+   90  cd HW_10
+   91  null> text_ignore.txt
+   92  git status
+   93  git add .
+   94  git commit -m "add gitignore"
+   95  git add
+   96  git add .
+   97  git commit -m "add main_test"
+   98  git branch develop
+   99  git checkout develop
+  100  null> develop_test.txt
+  101  git add .
+  102  git commit -m "add develop"
+  103  git status
+  104  git add .
+  105  git commit -m "add develop"
+  106  git checkout main
+  107  git merge develop
+  108  git log
+  109  git history>command_list.csv
+  110  git add .
+  111  git commit -m "add command_list"
+  112  git push
+  113  cd homework
+  114  git clone https://github.com/OlhaMurzak/HW_10.git
+  115  cd HW_10
+  116  null> text_ignore.txt
+  117  git status
+  118  git add .
+  119  git commit -m "add ignore"
+  120  git add .
+  121  git commit -m "add main_test"
+  122  git add .
+  123  git commit -m "add main_test"
+  124  git branch develop
+  125  git checkout develop
+  126  null> develop_test
+  127  git add .
+  128  git commit -m "add develop_test"
+  129  git status
+  130  git add .
+  131  git commit -m "add develop_test"
+  132  git checkout main
+  133  git merge develop
+  134  git log
+  135  history>command_list.csv
+  136  git history>command_list.csv
+  137  git add .
+  138  git commit -m "add command_list"
+  139  git push
+  140  git clone https://github.com/OlhaMurzak/HW_10.git
+  141  git cd HW_10
+  142  cd HW_10
+  143  null> text_ignore.txt
+  144  git status
+  145  git add .
+  146  git commit -m "add .gitignore"
+  147  git add .
+  148  git commit -m "add main_test.txt"
+  149  git branch develop
+  150  git checkout develop
+  151  null> develop_test.txt
+  152  git add .
+  153  git commit -m "add develop_test.txt"
+  154  git status
+  155  git add .
+  156  git commit -m "add develop_test.txt"
+  157  git checkout main
+  158  git merge develop
+  159  git log
+  160  history>command_list.csv
